@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "ZYJKPlayer"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "ZYJKPlayer player"
 
   # This description is used to generate tags and improve search results.
@@ -27,7 +27,7 @@ Pod::Spec.new do |spec|
   #spec.description  = <<-DESC
   #                DESC
 
-  spec.homepage     = "https://github.com/MoMoLiangyu/ZYJKPlayer"
+  spec.homepage     = "https://github.com/MoMoLiangyu/ZYJKPlayer/pull/new/master"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
